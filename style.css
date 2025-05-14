@@ -47,5 +47,12 @@ h1 {
     font-size: 100px;
     line-height: 122px;
     font-weight: 900;
+}
+
+h2 {
+    color: #515151;
+    font-size: 58px;
+    line-height: 71px;
+    font-weight: 500;
 
 }
