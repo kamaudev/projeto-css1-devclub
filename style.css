@@ -18,3 +18,11 @@ header {
     margin-right: 23px;
     cursor: pointer;
 }
+
+.button-header {
+    width: 130px;
+    height: 41px;
+    background: #665AE1;
+    border: none;
+    border-radius: 50px;
+}
