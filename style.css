@@ -33,9 +33,9 @@ header {
 }
 
 .logo-image {
-    width: 568px;
-    height: 500px;
-    margin-left: 125px;
+    width: 500px;
+    height: auto;
+    margin-left: 110px;
     display: inline-block;
 }
 
@@ -106,8 +106,8 @@ p {
 
     .logo-image {
         width: 335px;
-        height: 317px;
-        margin: 150px 35px 20px;
+        height: auto;
+        margin: 70px 35px 20px;
     }
 
     h1 {
@@ -131,7 +131,7 @@ p {
 
     section {
         display: block;
-        margin: 0 60px;
+        margin: 0 65px;
         text-align: center;
         align-items: center;
     }
@@ -139,5 +139,8 @@ p {
         width: 80vw;
         margin-top: 15px;
         margin-left: 7vw;
+    }
+    p {
+        margin: 10px auto;
     }
 }
